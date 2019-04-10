@@ -1,0 +1,11 @@
+C:\Users\murka\source\repos\DZ1\DZ1\bin\Debug\DZ1.exe.config
+C:\Users\murka\source\repos\DZ1\DZ1\bin\Debug\DZ1.exe
+C:\Users\murka\source\repos\DZ1\DZ1\bin\Debug\DZ1.pdb
+C:\Users\murka\source\repos\DZ1\DZ1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\murka\source\repos\DZ1\DZ1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\murka\source\repos\DZ1\DZ1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\murka\source\repos\DZ1\DZ1\obj\Debug\DZ1.csprojAssemblyReference.cache
+C:\Users\murka\source\repos\DZ1\DZ1\obj\Debug\DZ1.csproj.CoreCompileInputs.cache
+C:\Users\murka\source\repos\DZ1\DZ1\obj\Debug\DZ1.csproj.CopyComplete
+C:\Users\murka\source\repos\DZ1\DZ1\obj\Debug\DZ1.exe
+C:\Users\murka\source\repos\DZ1\DZ1\obj\Debug\DZ1.pdb

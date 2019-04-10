@@ -1,0 +1,100 @@
+<root>
+  <name>R2-D2</name>
+  <height>96</height>
+  <mass>32</mass>
+  <hair_color>n/a</hair_color>
+  <skin_color>white, blue</skin_color>
+  <eye_color>red</eye_color>
+  <birth_year>33BBY</birth_year>
+  <gender>n/a</gender>
+  <homeworld>https://swapi.co/api/planets/8/</homeworld>
+  <films>https://swapi.co/api/films/2/</films>
+  <films>https://swapi.co/api/films/5/</films>
+  <films>https://swapi.co/api/films/4/</films>
+  <films>https://swapi.co/api/films/6/</films>
+  <films>https://swapi.co/api/films/3/</films>
+  <films>https://swapi.co/api/films/1/</films>
+  <films>https://swapi.co/api/films/7/</films>
+  <species>https://swapi.co/api/species/2/</species>
+  <created>2014-12-10T15:11:50.376Z</created>
+  <edited>2014-12-20T21:17:50.311Z</edited>
+  <url>https://swapi.co/api/people/3/</url>
+</root><root>
+  <name>Darth Vader</name>
+  <height>202</height>
+  <mass>136</mass>
+  <hair_color>none</hair_color>
+  <skin_color>white</skin_color>
+  <eye_color>yellow</eye_color>
+  <birth_year>41.9BBY</birth_year>
+  <gender>male</gender>
+  <homeworld>https://swapi.co/api/planets/1/</homeworld>
+  <films>https://swapi.co/api/films/2/</films>
+  <films>https://swapi.co/api/films/6/</films>
+  <films>https://swapi.co/api/films/3/</films>
+  <films>https://swapi.co/api/films/1/</films>
+  <species>https://swapi.co/api/species/1/</species>
+  <starships>https://swapi.co/api/starships/13/</starships>
+  <created>2014-12-10T15:18:20.704Z</created>
+  <edited>2014-12-20T21:17:50.313Z</edited>
+  <url>https://swapi.co/api/people/4/</url>
+</root><root>
+  <name>Darth Vader</name>
+  <height>202</height>
+  <mass>136</mass>
+  <hair_color>none</hair_color>
+  <skin_color>white</skin_color>
+  <eye_color>yellow</eye_color>
+  <birth_year>41.9BBY</birth_year>
+  <gender>male</gender>
+  <homeworld>https://swapi.co/api/planets/1/</homeworld>
+  <films>https://swapi.co/api/films/2/</films>
+  <films>https://swapi.co/api/films/6/</films>
+  <films>https://swapi.co/api/films/3/</films>
+  <films>https://swapi.co/api/films/1/</films>
+  <species>https://swapi.co/api/species/1/</species>
+  <starships>https://swapi.co/api/starships/13/</starships>
+  <created>2014-12-10T15:18:20.704Z</created>
+  <edited>2014-12-20T21:17:50.313Z</edited>
+  <url>https://swapi.co/api/people/4/</url>
+</root><root>
+  <name>Darth Vader</name>
+  <height>202</height>
+  <mass>136</mass>
+  <hair_color>none</hair_color>
+  <skin_color>white</skin_color>
+  <eye_color>yellow</eye_color>
+  <birth_year>41.9BBY</birth_year>
+  <gender>male</gender>
+  <homeworld>https://swapi.co/api/planets/1/</homeworld>
+  <films>https://swapi.co/api/films/2/</films>
+  <films>https://swapi.co/api/films/6/</films>
+  <films>https://swapi.co/api/films/3/</films>
+  <films>https://swapi.co/api/films/1/</films>
+  <species>https://swapi.co/api/species/1/</species>
+  <starships>https://swapi.co/api/starships/13/</starships>
+  <created>2014-12-10T15:18:20.704Z</created>
+  <edited>2014-12-20T21:17:50.313Z</edited>
+  <url>https://swapi.co/api/people/4/</url>
+</root><root>
+  <name>R2-D2</name>
+  <height>96</height>
+  <mass>32</mass>
+  <hair_color>n/a</hair_color>
+  <skin_color>white, blue</skin_color>
+  <eye_color>red</eye_color>
+  <birth_year>33BBY</birth_year>
+  <gender>n/a</gender>
+  <homeworld>https://swapi.co/api/planets/8/</homeworld>
+  <films>https://swapi.co/api/films/2/</films>
+  <films>https://swapi.co/api/films/5/</films>
+  <films>https://swapi.co/api/films/4/</films>
+  <films>https://swapi.co/api/films/6/</films>
+  <films>https://swapi.co/api/films/3/</films>
+  <films>https://swapi.co/api/films/1/</films>
+  <films>https://swapi.co/api/films/7/</films>
+  <species>https://swapi.co/api/species/2/</species>
+  <created>2014-12-10T15:11:50.376Z</created>
+  <edited>2014-12-20T21:17:50.311Z</edited>
+  <url>https://swapi.co/api/people/3/</url>
+</root>
